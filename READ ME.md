@@ -1,3 +1,3 @@
-#Basics of Git
+# Basics of Git
 
 First Commit
